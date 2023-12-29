@@ -1,8 +1,6 @@
 # ZUniswapV2, a clone of UniswapV2 made in educational purposes
 
-# Adding more testing for Liquidity Providers
-
-
+# Adding more tests for Uniswap Pairs and Uniswap Router
 
 ## Using this repo
 
